@@ -8,3 +8,37 @@ Here are some things you would like to know about me:
 - 😄 Pronouns: HE/HIM...
 
 So that's all for now, Let's see how far I can go towards conquering these endeavours
+
+<details>
+<summary><b> 🏆 Github Profile Trophies </b></summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=A-nirvana&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
+---
+
+<details>
+<summary><b> 📈 Github Stats </b></summary>
+
+![Anirbans's github stats](https://github-readme-stats.vercel.app/api?username=A-nirvana&show_icons=true&theme=radical)
+
+</details>
+
+---
+
+<details>
+<summary><b> 💻 Top Languages </b></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-nirvana&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+---
+
+<details>
+---
+
+[![](https://visitcount.itsvg.in/api?id=Mastermind-sap&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+---
