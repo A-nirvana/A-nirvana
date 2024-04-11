@@ -10,7 +10,9 @@ Here are some things you would like to know about me:
 So that's all for now, Let's see how far I can go towards conquering these endeavours
 
 <div align="center>
+  <a href="https://github-readme-tech-stack.vercel.app">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&lineCount=2&theme=discord&bg=%23333333&badge=%23474747&border=%23474747&titleColor=%232374cf&line1=mongodb%2Cmongodb%2Cauto%3Bexpress%2Cexpressjs%2Cauto%3Breact%2Creact%2Cauto%3Bnode%2Cnodejs%2Cauto%3B&line2=typescript%2Ctypescript%2Cauto%3Bflask%2Cflask%2Cauto%3Btailwindcss%2Ctailwindcss%2Cauto%3Bredux%2Credux%2Cauto%3B" alt="My Tech Stack" />
+</div>a>
 </div>
 
 ---
