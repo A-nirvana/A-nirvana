@@ -30,6 +30,8 @@ So that's all for now, Let's see how far I can go towards conquering these endea
 <summary><b> 📈 Github Stats </b></summary>
 
 ![Anirbans's github stats](https://github-readme-stats.vercel.app/api?username=A-nirvana&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=A-nirvana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-nirvana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </details>
 
