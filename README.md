@@ -17,32 +17,19 @@ So that's all for now, Let's see how far I can go towards conquering these endea
 
 ---
 
-<details>
 <summary><b> 🏆 Github Profile Trophies </b></summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=A-nirvana&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-</details>
 
 ---
 
-<details>
 <summary><b> 📈 Github Stats </b></summary>
 
 ![Anirbans's github stats](https://github-readme-stats.vercel.app/api?username=A-nirvana&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A-nirvana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-nirvana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</details>
-
----
-
-<details>
-<summary><b> 💻 Top Languages </b></summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-nirvana&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 ---
 
